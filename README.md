@@ -1,9 +1,9 @@
-Company : CODTECH IT solutions PVT LTD
-Name    : Aditya bisen
-Intern id :  CT06DF1711
-Domain : Machine learning
-Duration : 6 weeks
-Mentor :  Neela Santhosh Kumar  
+# Company : CODTECH IT solutions PVT LTD
+# Name    : Aditya bisen
+# Intern id :  CT06DF1711
+# Domain : Machine learning
+# Duration : 6 weeks
+# Mentor :  Neela Santhosh Kumar  
 
 
 # decision_tree_python
