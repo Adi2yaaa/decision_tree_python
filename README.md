@@ -94,3 +94,11 @@ Visualization and performance metrics
 Visual plot of the decision tree structure
 
 Comments explaining each step for easy understanding
+
+Output
+
+<img width="679" height="346" alt="Image" src="https://github.com/user-attachments/assets/8b257885-bc96-4581-86d7-b600dad23ec0" />
+
+<img width="1134" height="776" alt="Image" src="https://github.com/user-attachments/assets/54b92a91-d029-4b4b-92a4-a207cadac1bd" />
+
+<img width="1006" height="653" alt="Image" src="https://github.com/user-attachments/assets/7e4304a8-a22b-4282-99d9-639c1d37c09f" />
